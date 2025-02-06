@@ -42,7 +42,7 @@
 
 ##### **7. Applications of Recombinant DNA**  
 - **Medicine:** Insulin production, gene therapy.  
-- **Agriculture:** Genetically modified crops for higher yields.  
+- **Agriculture:** Genetically modified crops for higher yields. *Bacillus thuringiensis* is used for pesticide.
 
 ---
 
