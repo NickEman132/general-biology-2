@@ -63,7 +63,7 @@
 ##### **3. Descent with Modification**  
 - **All species share common ancestors** and have evolved through gradual changes.  
 
-##### **4. Development of Evolutionary Thought**  
+##### (**4. Development of Evolutionary Thought**)[#evolutionary-theories-and-contributors]
 - **Lamarck:** Inheritance of acquired traits (disproven).  
 - **Darwin:** Natural selection as the primary mechanism of evolution.  
 
