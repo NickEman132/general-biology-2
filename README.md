@@ -1,6 +1,6 @@
 # general-biology-2
 
-### **Printable Reviewer: Genetics, Evolution, and Taxonomy**  
+### **Printable Reviewer: Genetics, Evolution, History of Evolution, and Taxonomy**  
 
 #### **I. Genetics**  
 
@@ -76,6 +76,54 @@
 ##### **6. Inferring Evolutionary Relationships**  
 - **Phylogenetic trees:** Show relationships based on shared characteristics.  
 - **DNA/Protein Analysis:** More similar sequences = closer relation.  
+
+---
+
+##### **Evolutionary Theories and Contributors**  
+
+**1. Aristotle (384–322 BCE)**  
+- **Hypothesis**: Believed in the "Scala Naturae" (Great Chain of Being), where organisms are arranged in a hierarchy from simple to complex forms.  
+- **Contribution**: His classification of organisms laid the foundation for later taxonomic work.  
+
+**2. Carolus Linnaeus (1707–1778)**  
+- **Hypothesis**: Developed binomial nomenclature, classifying organisms based on physical characteristics.  
+- **Contribution**: Created the system of taxonomy still used today, influencing evolutionary studies by grouping organisms based on similarities.  
+
+**3. Georges-Louis Leclerc, Comte de Buffon (1707–1788)**  
+- **Hypothesis**: Suggested that species could change over time due to environmental influences.  
+- **Contribution**: One of the first to propose that species are not fixed and can evolve.  
+
+ **4. Georges Cuvier (1769–1832)**  
+- **Hypothesis**: Developed catastrophism, the idea that species go extinct due to sudden catastrophic events.  
+- **Contribution**: Showed that fossils represent extinct organisms, supporting the idea of change in biodiversity over time.  
+
+ **5. James Hutton (1726–1797)**  
+- **Hypothesis**: Proposed gradualism—the Earth changes slowly over long periods.  
+- **Contribution**: His ideas influenced the understanding of deep time, which is necessary for evolution.  
+
+ **6. Charles Lyell (1797–1875)**  
+- **Hypothesis**: Advocated for uniformitarianism, which states that Earth's processes occur at a consistent rate over time.  
+- **Contribution**: Provided geological evidence that supported the long timescales needed for evolution.  
+
+ **7. Jean-Baptiste Lamarck (1744–1829)**  
+- **Hypothesis**: Proposed that organisms evolve through the inheritance of acquired characteristics (e.g., giraffes stretching their necks).  
+- **Contribution**: Though incorrect, he was one of the first to suggest that species change over time.  
+
+ **8. Charles Darwin (1809–1882)**  
+- **Hypothesis**: Developed natural selection as the mechanism of evolution—organisms with favorable traits survive and reproduce.  
+- **Contribution**: Published *On the Origin of Species* (1859), revolutionizing evolutionary biology.  
+
+ **9. Alfred Russel Wallace (1823–1913)**  
+- **Hypothesis**: Independently conceived natural selection based on observations in Southeast Asia.  
+- **Contribution**: His work pushed Darwin to publish his own findings.  
+
+---
+
+##### **Development of the Theory of Evolution**  
+1. **Early Ideas** – Aristotle and Linnaeus focused on classification, without suggesting evolution.  
+2. **First Evolutionary Thoughts** – Buffon and Lamarck proposed species change over time.  
+3. **Fossil and Geological Evidence** – Cuvier, Hutton, and Lyell demonstrated Earth’s long history and changes in species.  
+4. **Natural Selection** – Darwin and Wallace provided the mechanism explaining how species evolve.  
 
 ---
 
